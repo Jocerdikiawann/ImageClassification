@@ -1,1 +1,1 @@
-# ImageClassification
+# Rock vs Paper vs Scissors
